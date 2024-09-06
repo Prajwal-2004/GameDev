@@ -1,2 +1,1 @@
-# sample
-github.com/anngeorge12/sample
+Project Respository: https://github.com/anngeorge12/sample

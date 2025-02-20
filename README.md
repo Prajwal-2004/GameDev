@@ -14,6 +14,7 @@ Sound & Music: Sounds for the swishing of the sword, the fireball and the gamepl
 
 Levels & Challenges: The player has to go through 3 stages of the game where in each stage they have different sets of of opponents and scenes.
 
+
 Technologies Used:
 
 Game Engine: Unity
@@ -25,6 +26,7 @@ Version Control: GitHub
 Assets: Unity Store
 
 Physics & Collisions: Unity’s built-in physics system
+
 
 Contribution:
 

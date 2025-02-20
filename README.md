@@ -16,20 +16,14 @@ Levels & Challenges: The player has to go through 3 stages of the game where in 
 
 
 Technologies Used:
-
 Game Engine: Unity
-
 Programming Language: C#
-
 Version Control: GitHub
-
 Assets: Unity Store
-
 Physics & Collisions: Unity’s built-in physics system
 
 
 Contribution:
-
 I was mainly in-charge of the backend coding and working of the game using C#. It was a really nice learning experience as I had never used C# before this and was still able to manage and analyse the codes and correct the errors.
 
 
